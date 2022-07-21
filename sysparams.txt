@@ -1,0 +1,2 @@
+xpts	xmin	xmax	ypts	ymin	ymax	tpts	tmin	tmax
+51	0.000000	5.000000	51	0.000000	5.000000	1501	0.000000	5.000000
